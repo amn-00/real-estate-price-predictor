@@ -25,7 +25,8 @@ Predicts California housing prices in real-time using an XGBoost model trained o
 - Real-time inference via Streamlit sliders
 
 ---
-
+## 🚀 Live Demo
+👉 [Click here to try the app](https://real-estate-price-predictor-zbeesxpajdfgcuy6bgemu2.streamlit.app)
 ## Run Locally
 ```bash
 pip install -r requirements.txt
