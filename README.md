@@ -2,6 +2,8 @@
 
 **Portfolio Project | Aman Chaudhary | AI/ML Engineer**
 
+🚀 **[Live Demo](https://real-estate-price-predictor-zbeesxpajdfgcuy6bgemu2.streamlit.app)** | **[GitHub Repo](https://github.com/amn-00/real-estate-price-predictor)**
+
 ![Python](https://img.shields.io/badge/Python-3.11-blue) ![XGBoost](https://img.shields.io/badge/XGBoost-2.0-orange) ![Streamlit](https://img.shields.io/badge/Streamlit-1.35-red) ![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-1.5-orange)
 
 ---
@@ -25,8 +27,7 @@ Predicts California housing prices in real-time using an XGBoost model trained o
 - Real-time inference via Streamlit sliders
 
 ---
-## 🚀 Live Demo
-👉 [Click here to try the app](https://real-estate-price-predictor-zbeesxpajdfgcuy6bgemu2.streamlit.app)
+
 ## Run Locally
 ```bash
 pip install -r requirements.txt
